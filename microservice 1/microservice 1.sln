@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microservice 1", "microservice 1.csproj", "{AAB268C2-41F2-4852-84A1-AD6584D52208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microservice 2", "..\microservice 2\microservice 2.csproj", "{527F82EC-C01F-4D56-AF34-8E5A86AB47BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis", "..\Redis\Redis.csproj", "{11BAF5E5-9708-4D6D-9C7E-0BE9D5259125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB268C2-41F2-4852-84A1-AD6584D52208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB268C2-41F2-4852-84A1-AD6584D52208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB268C2-41F2-4852-84A1-AD6584D52208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB268C2-41F2-4852-84A1-AD6584D52208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527F82EC-C01F-4D56-AF34-8E5A86AB47BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527F82EC-C01F-4D56-AF34-8E5A86AB47BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527F82EC-C01F-4D56-AF34-8E5A86AB47BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527F82EC-C01F-4D56-AF34-8E5A86AB47BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BAF5E5-9708-4D6D-9C7E-0BE9D5259125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BAF5E5-9708-4D6D-9C7E-0BE9D5259125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BAF5E5-9708-4D6D-9C7E-0BE9D5259125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BAF5E5-9708-4D6D-9C7E-0BE9D5259125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BB6B3B8-E1D4-4F03-9B25-7B430BFD5FC6}
+	EndGlobalSection
+EndGlobal
