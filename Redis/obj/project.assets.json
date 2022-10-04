@@ -750,19 +750,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lukas\\.nuget\\packages\\": {}
+    "C:\\Users\\sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\System Integration\\Afleveringer\\2\\Redis\\Redis.csproj",
+      "projectUniqueName": "C:\\Users\\sebas\\Desktop\\aflv_2_integration\\Redis\\Redis.csproj",
       "projectName": "Redis",
-      "projectPath": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\System Integration\\Afleveringer\\2\\Redis\\Redis.csproj",
-      "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\System Integration\\Afleveringer\\2\\Redis\\obj\\",
+      "projectPath": "C:\\Users\\sebas\\Desktop\\aflv_2_integration\\Redis\\Redis.csproj",
+      "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sebas\\Desktop\\aflv_2_integration\\Redis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
