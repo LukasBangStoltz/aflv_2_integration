@@ -30,3 +30,39 @@ C:\Users\sebas\Desktop\aflv_2_integration\SubscriberConsole\obj\Debug\net6.0\ref
 C:\Users\sebas\Desktop\aflv_2_integration\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.pdb
 C:\Users\sebas\Desktop\aflv_2_integration\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.genruntimeconfig.cache
 C:\Users\sebas\Desktop\aflv_2_integration\SubscriberConsole\obj\Debug\net6.0\ref\SubscriberConsole.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\SubscriberConsole.exe
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\SubscriberConsole.deps.json
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\SubscriberConsole.runtimeconfig.json
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\SubscriberConsole.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\SubscriberConsole.pdb
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.csproj.AssemblyReference.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.AssemblyInfoInputs.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.AssemblyInfo.cs
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.csproj.CopyComplete
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\refint\SubscriberConsole.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.pdb
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\SubscriberConsole.genruntimeconfig.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\obj\Debug\net6.0\ref\SubscriberConsole.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\Redis.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\Redis.pdb
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\SubscriberConsole\bin\Debug\net6.0\Npgsql.dll

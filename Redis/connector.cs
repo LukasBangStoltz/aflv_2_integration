@@ -2,25 +2,14 @@
 
 namespace Redis
 {
-    public class Connector
+    public static class Connector
     {
-        
-        private static Lazy<ConnectionMultiplexer> lazyConnection;
-
-        static Connector()
+        private const string RedisConnectionString = "localhost:6379";
+        public static ConnectionMultiplexer RConnect()
         {
-            lazyConnection = new Lazy<ConnectionMultiplexer>(() =>
-            {
-                return ConnectionMultiplexer.Connect("localhost:6379");
-            });
-        }
+              ConnectionMultiplexer connection = ConnectionMultiplexer.Connect(RedisConnectionString);
+            return connection;
+    }
 
-        public static ConnectionMultiplexer Connection
-        {
-            get
-            {
-                return lazyConnection.Value;
-            }
-        }
     }
 }

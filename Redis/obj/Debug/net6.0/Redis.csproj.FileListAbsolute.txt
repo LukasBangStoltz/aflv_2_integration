@@ -10,3 +10,15 @@ C:\Users\sebas\Desktop\aflv_2_integration\Redis\obj\Debug\net6.0\Redis.dll
 C:\Users\sebas\Desktop\aflv_2_integration\Redis\obj\Debug\net6.0\refint\Redis.dll
 C:\Users\sebas\Desktop\aflv_2_integration\Redis\obj\Debug\net6.0\Redis.pdb
 C:\Users\sebas\Desktop\aflv_2_integration\Redis\obj\Debug\net6.0\ref\Redis.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\bin\Debug\net6.0\Redis.deps.json
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\bin\Debug\net6.0\Redis.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\bin\Debug\net6.0\Redis.pdb
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\obj\Debug\net6.0\Redis.csproj.AssemblyReference.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\obj\Debug\net6.0\Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\obj\Debug\net6.0\Redis.AssemblyInfoInputs.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\obj\Debug\net6.0\Redis.AssemblyInfo.cs
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\obj\Debug\net6.0\Redis.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\obj\Debug\net6.0\Redis.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\obj\Debug\net6.0\refint\Redis.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\obj\Debug\net6.0\Redis.pdb
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\System Integration\Afleveringer\2\Redis\obj\Debug\net6.0\ref\Redis.dll
